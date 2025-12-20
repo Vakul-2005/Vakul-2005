@@ -1,15 +1,30 @@
+<!-- Background Color Banner -->
+<!-- Banner with text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?font=Poppins
-&size=32
-&duration=3000
-&pause=800
-&color=22D3EE
-&center=true
-&vCenter=true
-&width=900
-&lines=Hello+👋,+Myself+Vakul;Computer+Science+Student;Python+Developer;AIML+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:14b8a6&height=200&section=header&text=Vakul&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<!-- Typing heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=36&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hello,+I'm+Vakul" />
+</p>
+
+<!-- Typing subheading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Python+Developer;AIML+Enthusiast" />
+</p>
+
+
+
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+AI+and+Machine+Learning;Building+Python+Projects;Growing+Every+Day" />
+</p>
+
+
 
 
 
