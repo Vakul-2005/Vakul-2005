@@ -1,42 +1,25 @@
-<div align="center" style="
-  background: linear-gradient(270deg, #150707a3, #0f172a, #35a242ff);
-  background-size: 400% 400%;
-  animation: bgMove 12s ease infinite;
-  padding: 20px 10px;
-  border-radius: 12px;
-">
-
-  <h1 style="
-    font-size: 36px;
-    font-weight: 800;
-    background: linear-gradient(90deg, #22d3ee, #38bdf8, #a855f7);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: glow 3s ease-in-out infinite;
-  ">
-    Hello👋, Myself Vakul
-  </h1>
-
-  <h3 style="
-    font-size: 18px;
-    font-weight: 500;
-    color: #94a3b8;
-    animation: fadeUp 2s ease-in-out;
-  ">
-    Computer Science Student | Python Developer | AIML Enthusiast
-  </h3>
-
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="250"/>
+  <img src="https://readme-typing-svg.demolab.com
+?font=Poppins
+&size=32
+&duration=3000
+&pause=800
+&color=22D3EE
+&center=true
+&vCenter=true
+&width=900
+&lines=Hello+👋,+Myself+Vakul;Computer+Science+Student;Python+Developer;AIML+Enthusiast" />
 </p>
 
-</div>
-<p align="center">
+
+
+
+
+<div align="center" style="padding:15px 5px;
+">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <img alt="Modern Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</p>
+</div>
 
 ---
 
