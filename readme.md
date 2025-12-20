@@ -28,24 +28,10 @@
 
 
 
-<style>
-@keyframes bgMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="250"/>
+</p>
 
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 2px #22d3ee); }
-  50% { filter: drop-shadow(0 0 6px #a855f7); }
-  100% { filter: drop-shadow(0 0 2px #22d3ee); }
-}
-
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(8px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
 </div>
 <p align="center">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
