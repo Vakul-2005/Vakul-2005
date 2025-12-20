@@ -26,7 +26,7 @@
     Computer Science Student | Python Developer | AIML Enthusiast
   </h3>
 
-</div>
+
 
 <style>
 @keyframes bgMove {
@@ -46,7 +46,7 @@
   to { opacity: 1; transform: translateY(0); }
 }
 </style>
-
+</div>
 <p align="center">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <img alt="Modern Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
