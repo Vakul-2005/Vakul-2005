@@ -19,7 +19,7 @@
     -webkit-text-fill-color: transparent;
     animation: glow 3s ease-in-out infinite;
   ">
-    Hello 👋, Myself Vakul
+    Hello👋, Myself Vakul
   </h1>
 
   <h3 style="
