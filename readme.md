@@ -11,7 +11,7 @@
 
 <!-- Typing subheading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Python+Developer;AIML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=900&lines=Computer+Science+Student;FULL+STACK+DEVELOPER;MERN+STACK" />
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+AI+and+Machine+Learning;Building+Python+Projects;Growing+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+FULL+STACK+DEVELOPMENT;Building+MERN+STACK+Projects;Growing+Every+Day" />
 </p>
 
 
@@ -43,14 +43,14 @@
   <h2 align="center" style="font-size:28px; font-weight:700; color:#e5e7eb;">🧑‍💻 About Me</h2>
 
   <p style="font-size:16px; line-height:1.6;">
-    I'm a Computer Science student currently pursuing <b style="color:#93c5fd;">AI/ML</b> with hands-on experience in
-    <span style="color:#60a5fa;">Python</span>,
-    <span style="color:#38bdf8;">MySQL</span>,
-    <span style="color:#facc15;">PyTorch</span>,
-    <span style="color:#fb7185;">TensorFlow</span>,
+    I'm a Computer Science student currently pursuing <b style="color:#93c5fd;">FULL STACK</b> with hands-on experience in
+    <span style="color:#60a5fa;">MongoDb</span>,
+    <span style="color:#38bdf8;">Express.js</span>,
+    <span style="color:#facc15;">React.js</span>,
+    <span style="color:#fb7185;">Node.js</span>,
     <span style="color:#22d3ee;">VS Code</span>,
     and
-    <span style="color:#a78bfa;">NumPy</span>.
+    <span style="color:#a78bfa;">HTML,CSS & JAVASCIRPT</span>.
   </p>
 
   <p style="font-size:16px; font-style:italic; color:#99b894;">
@@ -58,7 +58,7 @@
   </p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib&theme=light" width="350"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,,react,node.js,tailwind,vite,javascript,html,css,jsx&theme=light" width="350"/>
   </p>
 
 </div>
@@ -75,14 +75,34 @@
 
 ---
 
-<h2 align="center">📊 My Skills in AI/ML</h2>
+<h2 align="center">📊 My Skills in FULL STACK</h2>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-013243?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+
+
+
+
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
