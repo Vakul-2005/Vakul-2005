@@ -58,7 +58,7 @@
   </p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,,react,node.js,tailwind,vite,javascript,html,css,jsx&theme=light" width="350"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,tailwind,vite,javascript,html,css,jsx&theme=light" width="350"/>
   </p>
 
 </div>
@@ -99,11 +99,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
-
-
-
-
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   </a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
